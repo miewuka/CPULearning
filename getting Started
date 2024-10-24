@@ -44,6 +44,8 @@ https://github.com/intel
 2.AMD uprof 
 https://www.amd.com/en/developer/uprof.html
 
+3.arm采样（待有生之年整理）
+
 ########## 4.benchmark CPU测试工具 ####################
 1.SPECcpu2006/2017 （商业软件，国际通用，整型/浮点型测试）
 CPU性能分数对比：https://spec.org/cgi-bin/osgresults?conf=cpu2017
