@@ -20,6 +20,7 @@ Intel:
 AMD:
 Zen4 CPU芯片参数：https://www.amd.com/es/products/processors/server/epyc/4th-generation-9004-and-8004-series.html
 Zen4 架构：https://www.amd.com/en/products/processors/server/epyc/4th-generation-architecture.html
+Zen4架构指导书：https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/tuning-guides/58002_amd-epyc-9004-tg-hpc.pdf
 
 kunpeng 920
 https://www.hisilicon.com/cn/products/Kunpeng/Huawei-Kunpeng/Huawei-Kunpeng-920
