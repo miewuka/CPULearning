@@ -1,0 +1,29 @@
+Reprint Big gun document.Happy 1024！
+Let's get started!
+
+## Easy to learn 'How to compare product differences'
+CPU的制造和概念：https://plantegg.github.io/2021/06/01/CPU%E7%9A%84%E5%88%B6%E9%80%A0%E5%92%8C%E6%A6%82%E5%BF%B5/
+
+CPU性能和CACHE：https://plantegg.github.io/2021/07/19/CPU%E6%80%A7%E8%83%BD%E5%92%8CCACHE/
+
+Intel、海光、鲲鹏920、飞腾2500 CPU性能对比：https://plantegg.github.io/2021/06/18/%E5%87%A0%E6%AC%BECPU%E6%80%A7%E8%83%BD%E5%AF%B9%E6%AF%94/
+
+AMD_Zen_CPU架构（1~3）：https://plantegg.github.io/2021/08/13/AMD_Zen_CPU%E6%9E%B6%E6%9E%84/
+
+## CPU official website
+
+Intel:
+(2023) 5th Gen Intel® Xeon® Processor：https://www.intel.cn/content/www/cn/zh/products/docs/processors/xeon/5th-gen-xeon-scalable-processors.html
+(2024) Intel® Xeon® 6 Processor: shttps://www.intel.cn/content/www/cn/zh/products/details/processors/xeon.html
+命名规则：https://www.intel.cn/content/www/cn/zh/support/articles/000059657/processors/intel-xeon-processors.html
+
+AMD:
+Zen4 CPU芯片参数：https://www.amd.com/es/products/processors/server/epyc/4th-generation-9004-and-8004-series.html
+Zen4 架构：https://www.amd.com/en/products/processors/server/epyc/4th-generation-architecture.html
+
+
+kunpeng 920
+
+
+
+## profile tools
