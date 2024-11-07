@@ -1,7 +1,17 @@
 ①AMD zen4：
+https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/tuning-guides/58002_amd-epyc-9004-tg-hpc.pdf
+https://www.amd.com/content/dam/amd/en/documents/products/epyc/4th-gen-amd-epyc-processor-architecture-whitepaper.pdf
 
 ②AMD zen5:
+架构导入：https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/user-guides/58462_amd-epyc-9005-tg-architecture-overview.pdf
 
+
+架构性能测试(与Intel 5系对比)：
+https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/performance-briefs/amd-epyc-9005-pb-ansys-cfx.pdf
+https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/performance-briefs/amd-epyc-9005-pb-ansys-ls-dyna.pdf
+https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/performance-briefs/amd-epyc-9005-pb-ansys-mechanical.pdf
+https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/performance-briefs/amd-epyc-9005-pb-altair-acusolve.pdf
+https://www.amd.com/content/dam/amd/en/documents/epyc-technical-docs/performance-briefs/amd-epyc-9005-pb-ansys-fluent.pdf
 
 ③Intel架构：
 Skylake：https://en.wikipedia.org/wiki/Skylake_(microarchitecture)
